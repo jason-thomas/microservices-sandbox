@@ -1,0 +1,4 @@
+Record Type,Report Date,Merchant ID,Deposit Account Number,Customer Name,Transaction ID,Tracking Number,Return Type,Return Code,Return Description,Return Amount,Original Settlement Date
+Detail,2024-09-15,123456789,****6789,John Smith,TRX123456,TRK-98312,Administrative Return,R01,Insufficient Funds,125.76,2024-09-12
+Detail,2024-09-15,123456789,****6789,Sarah Jones,TRX123457,TRK-98313,Administrative Return,R02,Account Closed,89.50,2024-09-12
+Detail,2024-09-15,123456789,****6789,Michael Doe,TRX123458,TRK-98314,Administrative Return,R03,"Signature differs, refer to maker",64.00,2024-09-13
